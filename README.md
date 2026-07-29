@@ -2,8 +2,6 @@
 
 A single-page marketing site for an independent brand-and-interiors consultancy, built to do one job well: turn a visitor into a booked enquiry, without a multi-page navigation maze getting in the way.
 
-**Live demo:** _add your deployed link here (Vercel / Netlify / GitHub Pages)_
-
 ---
 
 ## Overview
